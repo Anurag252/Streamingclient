@@ -37,12 +37,12 @@ console.log(responseBody);
 
 The streamRequest function takes a requestOptions object with the following properties:
 
-url (string): the URL to make the request to
-headers (optional Headers): an object representing the request headers
-method (string): the HTTP method to use (e.g. "GET", "POST", etc.)
-body (string): the request body, as a string
-timeout (number): the timeout, in milliseconds, for the request
-The streamRequest function returns a Promise that resolves to the HTTP response.
+- url (string): the URL to make the request to
+- headers (optional Headers): an object representing the request headers
+- method (string): the HTTP method to use (e.g. "GET", "POST", etc.)
+- body (string): the request body, as a string
+- timeout (number): the timeout, in milliseconds, for the request
+- The streamRequest function returns a Promise that resolves to the HTTP response.
 
 License
 This module is released under the MIT License.
