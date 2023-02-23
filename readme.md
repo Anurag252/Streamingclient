@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Node.js module that provides a `streamRequest` function for making HTTP requests with a Readable stream as the request body. It uses the `node-fetch` library for making the HTTP request.
+A simple library to test out a http server perfomance with long living connections. This is a Node.js module that provides a `streamRequest` function for making HTTP requests with a Readable stream as the request body. It uses the `node-fetch` library for making the HTTP request.
 
 ## Installation
 
