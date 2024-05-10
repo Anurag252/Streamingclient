@@ -19,7 +19,7 @@ To use this module, you must have [Node.js](https://nodejs.org/) installed on yo
 To use this module, you can import the `streamRequest` function from the module:
 
 ```js
-import { streamRequest } from '@your-username/stream-request';
+import { streamRequest } from 'stream-request';
 //You can then use the streamRequest function to make an HTTP request with a Readable stream as the request body:
 
 
